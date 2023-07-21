@@ -1,6 +1,6 @@
 # MySQL Commands
 
-create databases
+```create databases``
 
 USE springdb
 
